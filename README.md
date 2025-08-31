@@ -1,9 +1,3 @@
-Of course. A good README is essential for any project. It serves as the front door, explaining what your project does and how to use it.
-
-Here is a detailed, professional README file tailored for your application. You can copy and paste this directly into a new file named `README.md` in your project's root directory.
-
------
-
 # 🚀 Natural Language to SQL Query with Gemini Pro and Streamlit
 
 This project is a powerful and intuitive web application built with Streamlit that allows users to interact with their SQLite databases using plain English. It leverages the Google Gemini Pro model to translate natural language questions into executable SQL queries, retrieves the data, and displays it in a user-friendly format, complete with automatic data visualizations.
@@ -112,3 +106,4 @@ This application is ready for deployment on [Streamlit Community Cloud](https://
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
