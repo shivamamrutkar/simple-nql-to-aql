@@ -1,0 +1,5 @@
+# Ignore Streamlit secrets file
+.streamlit/secrets.toml
+
+# Ignore temporary database folder
+temp_db/
