@@ -6,7 +6,7 @@ This project is a powerful and intuitive web application built with Streamlit th
 
 -----
 
-## 🔗 Link: [Google AI Studio](https://simple-nql-to-sql.streamlit.app/)
+## 🔗 Link: [Live Demo](https://simple-nql-to-sql.streamlit.app/)
 
 ## ✨ Key Features
 
@@ -108,5 +108,6 @@ This application is ready for deployment on [Streamlit Community Cloud](https://
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
 
 
