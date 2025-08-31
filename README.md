@@ -2,7 +2,8 @@
 
 This project is a powerful and intuitive web application built with Streamlit that allows users to interact with their SQLite databases using plain English. It leverages the Google Gemini Pro model to translate natural language questions into executable SQL queries, retrieves the data, and displays it in a user-friendly format, complete with automatic data visualizations.
 
-*(Suggestion: Take a screenshot of your running application and replace the placeholder above)*
+<img width="1839" height="957" alt="image" src="https://github.com/user-attachments/assets/9a8fbbed-3233-41aa-8c67-50729842b56f" />
+
 
 -----
 
@@ -108,6 +109,7 @@ This application is ready for deployment on [Streamlit Community Cloud](https://
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
 
 
 
