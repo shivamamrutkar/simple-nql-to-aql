@@ -6,6 +6,8 @@ This project is a powerful and intuitive web application built with Streamlit th
 
 -----
 
+## 🔗 Link: [Google AI Studio](https://simple-nql-to-sql.streamlit.app/)
+
 ## ✨ Key Features
 
   * **Natural Language Queries**: Ask complex questions about your data in plain English (e.g., "Show me the top 5 artists by total sales").
@@ -106,4 +108,5 @@ This application is ready for deployment on [Streamlit Community Cloud](https://
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
 
