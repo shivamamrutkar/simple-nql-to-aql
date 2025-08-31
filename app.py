@@ -5,7 +5,6 @@ import pandas as pd
 import plotly.express as px
 import os
 from contextlib import closing
-from dotenv import load_dotenv
 
 
 # --- Configuration ---
@@ -16,8 +15,8 @@ st.set_page_config(
 )
 
 # Configure the Gemini API key from Streamlit's secrets
-load_dotenv()
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
+
 if not GOOGLE_API_KEY:
     st.error("Set GOOGLE_API_KEY in .env and restart. See README instructions.")
     st.stop()
