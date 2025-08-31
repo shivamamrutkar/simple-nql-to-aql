@@ -44,7 +44,7 @@ Follow these steps to set up and run the project on your local machine.
 ### 2\. Clone the Repository
 
 ```bash
-git clone https://github.com/shivamamrutkar/simple-nql-to-aql.git
+git clone https://github.com/shivamamrutkar/simple-nql-to-sql.git
 cd your-repo-name
 ```
 
@@ -109,6 +109,7 @@ This application is ready for deployment on [Streamlit Community Cloud](https://
 ## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
 
 
 
